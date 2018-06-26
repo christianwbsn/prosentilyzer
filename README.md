@@ -1,9 +1,8 @@
-# Prosentilyzer
-#### Product Review Sentiment Analyzer
+# Prosentilyzer - Product Review Sentiment Analyzer
 
 ----
 ## Description
-    This repository is a task for Graphics and Artificial Intelligence Laboratory assistant selection. Build a model for sentiment analysis of product review in Bahasa Indonesia.
+This repository is a task for Graphics and Artificial Intelligence Laboratory assistant selection. Build a model for sentiment analysis of product review in Bahasa Indonesia.
 
 ----
 ## Dataset
@@ -24,21 +23,21 @@
 * NLTK
 
 ## Project Structure
-    ```
-    | input
-        | raw
-            | lazada_review.csv
-        | preprocessed
-            | lazada_review.csv
-            | lazada_review_labelled.csv
-        | train
-            | train.csv
-        | test
-            | test.csv
-    | src
-        | scraper
-            | lazada_scraper.py
-    ```
+```
+| input
+    | raw
+        | lazada_review.csv
+    | preprocessed
+        | lazada_review.csv
+        | lazada_review_labelled.csv
+    | train
+        | train.csv
+    | test
+        | test.csv
+| src
+    | scraper
+        | lazada_scraper.py
+```
 
 ## Installation
 * Run the ipython notebook in jupyter notebook
