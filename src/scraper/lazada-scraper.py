@@ -1,9 +1,11 @@
-from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
 import csv
 import re
 from datetime import datetime
+
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
+
 
 def get_review(driver):
     content = []
@@ -14,13 +16,13 @@ def get_review(driver):
         content.append(rev)
     return content
         
-
 def get_rating(driver):
     rating = []
     soup = BeautifulSoup(driver.page_source, 'lxml')
     for stars in soup.select(".item .top .container-star"):
         star = str(stars)
-        yellow_star = re.findall("//laz-img-cdn.alicdn.com/tfs/TB19ZvEgfDH8KJjy1XcXXcpdXXa-64-64.png", star)
+        yellow_pattern = "//laz-img-cdn.alicdn.com/tfs/TB19ZvEgfDH8KJjy1XcXXcpdXXa-64-64.png"
+        yellow_star = re.findall(yellow_pattern, star)
         rating.append(len(yellow_star))
     return rating
 
@@ -48,22 +50,22 @@ urls = [
 review_data = []
 
 if __name__ == "__main__":
-    driver = webdriver.Chrome('/usr/lib/chromium-browser/chromedriver')
+    webdriver_path = '/usr/lib/chromium-browser/chromedriver'
+    driver = webdriver.Chrome(webdriver_path)
     for url in urls:
         driver.implicitly_wait(80)
         driver.get(url)
         review_data += get_data(driver)
         while True :
-            next_button = driver.find_element_by_xpath("//button[@class='next-btn next-btn-normal next-btn-medium next-pagination-item next']")
+            button_xpath = "//button[@class='next-btn next-btn-normal next-btn-medium next-pagination-item next']"
+            next_button = driver.find_element_by_xpath(button_xpath)
             if not next_button.is_enabled():
                 break
             next_button.click()
             driver.implicitly_wait(80)
             review_data += get_data(driver)
-
-    with open('lazada_review.csv', 'a') as csv_file:
-        writer = csv.writer(csv_file)
-        for datum in review_data:
-            writer.writerow([datum[0], datum[1]])
-            
+        with open('../../input/raw/lazada_review.csv', 'a') as csv_file:
+            writer = csv.writer(csv_file)
+            for datum in review_data:
+                writer.writerow([datum[0], datum[1]])
     driver.quit()
