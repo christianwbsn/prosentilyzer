@@ -57,12 +57,13 @@ if __name__ == "__main__":
         driver.get(url)
         review_data += get_data(driver)
         while True :
+            driver.implicitly_wait(20)
             button_xpath = "//button[@class='next-btn next-btn-normal next-btn-medium next-pagination-item next']"
             next_button = driver.find_element_by_xpath(button_xpath)
             if not next_button.is_enabled():
                 break
-            next_button.click()
-            driver.implicitly_wait(80)
+            driver.execute_script("arguments[0].click();", next_button)
+            driver.implicitly_wait(100)
             review_data += get_data(driver)
         with open('../../input/raw/lazada_review.csv', 'a') as csv_file:
             writer = csv.writer(csv_file)
