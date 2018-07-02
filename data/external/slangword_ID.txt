@@ -6,30 +6,39 @@ ababil:anak ingusan
 abal2:palsu
 abal:palsu
 ad:ada
+af:sekali
+aj:saja
+aja:saja
+apa2:apa apa
 akooh:aku
 alay:norak
 albm:album
 ampe:sampai
 anjir:waw
 anyway:ngomong-ngomong
+apik:bagus
 aq:aku
 asap:secepatnya
 ato:atau
+atao:atau
 atw:atau
 ava:foto profil
+banget:sekali
 baget:keras kepala
 baper:bawa perasaan
 bapuk:rusak
 bcr:bicara
+batre:baterai
+batere:baterai
 bebeb:pacar
 begin:awal
 bejibun:bertumpuk banyak
 bener:benar
 ber2:berdua
 ber3:bertiga
-better:lebih baik
 bf:pacar
-bgt:banget
+bgt:sekali
+bnget sekali
 bhas:bahas
 bhg:bahagia
 bikin:buat
@@ -44,33 +53,68 @@ br:baru
 brb:akan segera kembali
 brjaya:berjaya
 bs:bisa
+bsa:bisa
 bsk:besok
+brg:barang
+brang:barang
+brng:barang
+blum:belum
+blom:belum
 btw:ngomong-ngomong
+bwt:buat
+bgs:bagus
+bgus:bagus
+buyer:pembeli
+bsr:besar
+bsar:besar
 cm:cuma
+ccd:cacat
+cct:cacat
+cmn:cuma
+cman:cuma
 cmiiw:koreksi saya
 cnt:cinta
+cs:customer service
 congrats:selamat
+cod:cash on delivery
 crop:potong
+cpt:cepat
+cpat:cepat
 cya:sampai jumpa lagi
 d:di
 da:ada
+dah:sudah
+dapt:dapat
+dapet:dapat
 dafuk:kurang ajar
 damat:tidak peduli
 dempa:demi apa
+dech:deh
+dpn:depan
+dg:dengan
 dgn:dengan
+deket:dekat
 dkt:dekat
 dlm:dalam
 dlu:dulu
 dmn:dimana
 dpt:dapat
 dr:dari
+dri:dari
 drpd:daripada
 dsna:disana
 dugem:dunia gemerlap
+design:desain
+dtg:datang
+dtang:datang
 elo:kamu
 elu:kamu
+expedisi:ekspedisi
+ekpedisi:ekspedisi
 emg:memang
+emng:memang
 epsd:episode
+fast:cepat
 fake:falsu
 fans:penggemar
 fans:penggemar
@@ -80,6 +124,9 @@ fhm:paham
 fix:pasti
 ft:foto
 fyi:asal tahu saja
+fs:flash sale
+flasale:flash sale
+fles:flash
 g:tidak
 ga:tidak
 gaada:tidak ada
@@ -87,6 +134,7 @@ gabut:gaji buta
 gada:tidak ada
 gajebo:tidak jelas
 gak:tidak
+gan:juragan
 galau:bimbang
 garing:hambar
 gatau:tidak tahu
@@ -95,6 +143,8 @@ gengges:ganggu
 gf:pacar
 ggl:gagal
 gk:tidak
+gold:emas
+god:bagus
 gmn:bagaimana
 gmpng:gampang
 gogon:go internasional
@@ -105,30 +155,46 @@ gt:gitu
 gue:aku
 gw:aku
 gw:aku
+hbd:happy birthday
+hp:telepon genggam
+hape:telepon genggam
+haeduh:aduh
 hacep:pesta pora
 hater:pembenci
 haters:pembenci
 hdp:hidup
+hrg:harga
+hrga:harga
 hdr:hadir
 hit:terpopuler
 hits:terkini
 hoax:palsu
 ig:instagram
+idup:hidup
 indo:indonesia
 iow:dengan kata lain
 ipon:iphone
+item:hitam
+jos:mantap
+joz:mantap
 jd:jadi
 jdi:jadi
 jdnya:jadinya
 jg:juga
 jgan:jangan
+jngn:jangan
 jgn:jangan
 jl:jalan
 jln:jalan
 jls:jelas
 jutek:galak
+k:ke
+ko:kok
 kamseupay:kampungan
 karn:karena
+krn:karena
+karna:karena
+krna:karena
 kbr:kabar
 kca:kaca
 keknya:kayaknya
@@ -138,33 +204,47 @@ kepo:penasaran
 kgk:kagak
 kicep:diam
 kipak:bohong
+kog:kok
 kk:kakak
 kl:kalau
 klo:kalau
+klu:kalau
 klon:duplikat
 klrg:keluarga
 klu:kalau
 km:kamu
 kmn:kemana
 kmrn:kemarin
+kcil:kecil
+kcl:kecil
 kn:kan
 knp:kenapa
+knpa:kenapa
 kongkow:kumpul-kumpul
 kpd:kepada
 kpn:kapan
 krn:karena
+krm:kirim
+krim:kirim
 krna:karena
 ktny:katanya
 kumkeb:kumpul kebo
 kyk:kayak
+kagak:tidak
+kyak:kayak
 kzl:kesal
+kwalitas:kualitas
+lbh:lebih
 lebay:berlebihan
 lebeh:berlebihan
+lelet:lambat
 lg:lagi
 lgs:langsung
 liat:lihat
 lnjut:lanjut
 lo:kamu
+loh:lho
+lom:belum
 lol:tertawa
 love:cinta
 lwt:lewat
@@ -184,6 +264,8 @@ mimin:admin
 minn:admin
 mkn:makan
 mksd:maksud
+mksud:maksud
+mksh:terima kasih
 mlm:malam
 mlm:malam
 mls:malas
@@ -191,28 +273,55 @@ mmg:memang
 modus:maksud lain
 mrk:mereka
 mrka:mereka
+mayan:lumayan
+muantap:mantap
+mantaf:mantap
+mantep:mantap
+mntap:mantap
+mantab:mantap
 much:lebih
 mure:murah
 mw:mau
 n:dan
+naek:naik
+nelpon:menelepon
+nelfon:menelepon
 ngeh:paham
 ngeuh:paham
+ndak:tidak
 nggak:tidak
 nggu:menunggu
+ngga:tidak
 ngk:tidak
 nic:penggemar agnezmo
 nice:bagus
 nicong:penggemar agnezmo
 nmr:nomor
+no:nomor
 nongkrong:kumpul-kumpul
 ntn:nonton
+nntn:nonton
+ntaps:mantap
+ntap:mantap
+mantul:mantap betul
+nyampe:sampai
+nyampek:sampai
 nyungsep:jatuh
+nyesal:menyesal
+nyesel:menyesal
 official:resmi
 olh:oleh
 or:atau
+ori:asli
 org:orang
+ongkir:ongkos kirim
+ok:oke
+overal:secara keseluruhan
+overall:secara keseluruhan
+on hand: di tangan
 pa:apa
 pake:pakai
+pakek:pakai
 palbis:paling bisa
 pcr:pacar
 pcran:pacaran
@@ -223,25 +332,41 @@ pg:pagi
 pgg:pegang
 php:pemberi harapan palsu
 pk:pakai
+paking:packing
 plg:pulang
 pls:tolong
 pnh:pernah
 pntg:penting
 pny:punya
+pingin:ingin
+pengen:ingin
+pgn:ingin
 prasmul:perasaan saja
 prcya:percaya
+pls:tolong
+please:tolong
 prnh:pernah
 pst:pesat
+psti:pasti
+pcs:buah
+rapih:rapi
 recokin:ganggu
 rempong:repot
 ri:republik indonesia
 rotfl:tertawa
+rbu:ribu
+rb:ribu
+respons:respon
+response:respon
+recomended:rekomendasi
+recommended:rekomendasi
+rekomended:rekomendasi
+recommend:rekomendasi
 sabeb:bebas
 schedule:jadwal
 sdh:sudah
-sdh:sudah
 selow:santai
-sgt:sangat
+seller:penjual
 sgt:sangat
 sgtu:segitu
 sgtuny:segitunya
@@ -251,19 +376,27 @@ skali:sekali
 skrg:sekarang
 slh:salah
 sll:selalu
+ssuai:sesuai
 sm:sama
 smg:semoga
 smga:semoga
+smoga:semoga
 smw:semua
 smwnya:semuanya
 stage:panggung
 stj:setuju
 stuju:setuju
+sprt:seperti
+sprti:seperti
+sperti:seperti
 sy:saya
 sya:saya
 syg:sayang
+sel:sale
 td:tadi
 tdk:tidak
+tpat:tepat
+tpt:tepat
 tengsin:malu
 thn:tahun
 tik:cantik
@@ -274,13 +407,31 @@ trs:terus
 trus:terus
 ttg:tentang
 ttp:tetap
+ttep:tetap
+tetep:tetap
+tlpon:telpon
 tw:tau
 typo:salah tulis
+trimakasih:terima kasih
+trims:terima kasih
+trim:terima
+timbang:dibanding
+tg:tempered glass
+tks:thanks
+tq:terima kasih
 u:you
+utk:untuk
 unyu:menggemaskan
+uda:sudah
+udh:sudah
+walo:walau
+walao:walau
 with:dengan
 woles:santai
 wtf:apa-apaan
 x:kali
+xiomi:xiaomi
 y:ya
+yak:ya
 yg:yang
+yng:yang
