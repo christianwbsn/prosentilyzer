@@ -65,7 +65,7 @@ if __name__ == "__main__":
             driver.execute_script("arguments[0].click();", next_button)
             driver.implicitly_wait(100)
             review_data += get_data(driver)
-        with open('../../input/raw/lazada_reviews.csv', 'a') as csv_file:
+        with open('../../data/raw/lazada_reviews.csv', 'a') as csv_file:
             writer = csv.writer(csv_file)
             for datum in review_data:
                 writer.writerow([datum[0], datum[1]])

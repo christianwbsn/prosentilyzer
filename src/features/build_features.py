@@ -21,4 +21,4 @@ if __name__ == "__main__":
     raw['review'] = raw['review'].apply(remove_stop_words)
     raw = raw[raw['review'].map(len) > 0]
     raw['word_count'] = raw['review'].map(len)
-    raw.to_csv("../../input/preprocessed/lazada_review_clean.csv", index=False)
+    raw.to_csv("../../data/interim/lazada_review_clean.csv", index=False)
