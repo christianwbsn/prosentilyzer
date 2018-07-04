@@ -69,6 +69,8 @@ bsr:besar
 bsar:besar
 cm:cuma
 ccd:cacat
+cowo:cowok
+cewe:cewek
 cct:cacat
 cmn:cuma
 cman:cuma
@@ -127,6 +129,7 @@ fyi:asal tahu saja
 fs:flash sale
 flasale:flash sale
 fles:flash
+for:untuk
 g:tidak
 ga:tidak
 gaada:tidak ada
@@ -319,6 +322,7 @@ ok:oke
 overal:secara keseluruhan
 overall:secara keseluruhan
 on hand: di tangan
+olshop:toko online
 pa:apa
 pake:pakai
 pakek:pakai
@@ -356,6 +360,8 @@ ri:republik indonesia
 rotfl:tertawa
 rbu:ribu
 rb:ribu
+romo:promo
+rocker:voucher
 respons:respon
 response:respon
 recomended:rekomendasi
@@ -393,6 +399,7 @@ sy:saya
 sya:saya
 syg:sayang
 sel:sale
+spek:spesifikasi
 td:tadi
 tdk:tidak
 tpat:tepat
@@ -431,7 +438,63 @@ woles:santai
 wtf:apa-apaan
 x:kali
 xiomi:xiaomi
+xiomie:xiaomi
 y:ya
 yak:ya
 yg:yang
 yng:yang
+ninjavanid:ninjavan
+jeng:jangan
+klesuruah:keseluruhan
+ransel:dibatalkan
+pasrah:puas
+smpai:sampai
+handsfre:handsfree
+teh:the
+hihihi:tertawa
+hehehe:tertawa
+hahaha:tertawa
+wkwkwk:tertawa
+id:indonesia
+up: 
+job: 
+kayak:seperti
+brithday:birthday
+thank:terima
+you:kasih
+ati:hati
+adin:adakan
+aga:agak
+merek:merk
+ane:saya
+bingitz:banget
+godjob: good job
+akirnya:akhirnya
+tingi:tinggi
+by:beli
+best:terbaik
+delivery:pengiriman
+vocher:voucher
+hole:lubang
+bas:bass
+depak:depok
+woto:bernilai
+copot:lepas
+kagak:tidak
+cape:capek
+cas:charge
+error:rusak
+quality:kualitas
+mesan:memesan
+terimakasih:terima kasih
+notification:pemberitahuan
+packing:pengemasan
+peking:pengemasan
+unique:unik
+nyampe:sampai
+si:sih
+perfect:sempurna
+over:secara keseluruhan
+size:ukuran
+fred:gratis
+real:memang
