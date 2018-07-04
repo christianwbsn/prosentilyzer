@@ -128,6 +128,7 @@ ft:foto
 fyi:asal tahu saja
 fs:flash sale
 flasale:flash sale
+flashsale: flash sale
 fles:flash
 for:untuk
 g:tidak
@@ -295,10 +296,9 @@ ndak:tidak
 nggak:tidak
 nggu:menunggu
 ngga:tidak
+nga:tidak
 ngk:tidak
-nic:penggemar agnezmo
 nice:bagus
-nicong:penggemar agnezmo
 nmr:nomor
 no:nomor
 nongkrong:kumpul-kumpul
@@ -455,11 +455,12 @@ hihihi:tertawa
 hehehe:tertawa
 hahaha:tertawa
 wkwkwk:tertawa
+ckckck:heran
 id:indonesia
 up: 
 job: 
 kayak:seperti
-brithday:birthday
+brithday:ulang tahun
 thank:terima
 you:kasih
 ati:hati
@@ -498,3 +499,33 @@ over:secara keseluruhan
 size:ukuran
 fred:gratis
 real:memang
+moga:semoga
+nyangka:menyangka
+marketing:pemasaran
+komplain:keluhan
+komplen:keluhan
+les:lex
+kah:kasih
+review:ulasan
+digratisun:gratis
+naomi:xiaomi
+trusted:terpercaya
+cip:sip
+birthday:ulang tahun
+original:asli
+ori:asli
+invite:undang
+meeting:pertemuan
+markotop:sangat
+markusip:sangat
+smartphone:telepon genggam cerdas
+xpress:express
+ekspress:express
+black:hitam
+blue:biru
+very:sangat
+not:tidak
+good:bagus
+bad:jelek
+product:produk
+carger:charger
