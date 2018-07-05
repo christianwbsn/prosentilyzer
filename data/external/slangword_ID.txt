@@ -13,17 +13,20 @@ apa2:apa apa
 akooh:aku
 alay:norak
 albm:album
+alakadar:seadanya
 ampe:sampai
 anjir:waw
 anyway:ngomong-ngomong
 apik:bagus
 aq:aku
 asap:secepatnya
+and:dan
 ato:atau
 atao:atau
 atw:atau
 ava:foto profil
 banget:sekali
+balikin:kembalikan
 baget:keras kepala
 baper:bawa perasaan
 bapuk:rusak
@@ -63,6 +66,7 @@ blom:belum
 btw:ngomong-ngomong
 bwt:buat
 bgs:bagus
+bgt:banget
 bgus:bagus
 buyer:pembeli
 bsr:besar
@@ -78,7 +82,7 @@ cmiiw:koreksi saya
 cnt:cinta
 cs:customer service
 congrats:selamat
-cod:cash on delivery
+cod:bayar di tempat
 crop:potong
 cpt:cepat
 cpat:cepat
@@ -111,6 +115,8 @@ dtg:datang
 dtang:datang
 elo:kamu
 elu:kamu
+enggak:tidak
+engga:tidak
 expedisi:ekspedisi
 ekpedisi:ekspedisi
 emg:memang
@@ -123,12 +129,13 @@ fans:penggemar
 faq:pertanyaan umum
 fham:paham
 fhm:paham
+fb:facebook
 fix:pasti
 ft:foto
 fyi:asal tahu saja
 fs:flash sale
 flasale:flash sale
-flashsale: flash sale
+flashsale:flash sale
 fles:flash
 for:untuk
 g:tidak
@@ -151,9 +158,11 @@ gold:emas
 god:bagus
 gmn:bagaimana
 gmpng:gampang
-gogon:go internasional
 gokil:gila
-gpp:tidak apa-apa
+hand:tangan
+gapapa:tidak apa apa
+gpp:tidak apa apa
+gakpapa:tidak apa apa
 grammar:tata bahasa
 gt:gitu
 gue:aku
@@ -213,6 +222,8 @@ kk:kakak
 kl:kalau
 klo:kalau
 klu:kalau
+kalo:kalau
+kalok:kalau
 klon:duplikat
 klrg:keluarga
 klu:kalau
@@ -295,6 +306,8 @@ ngeuh:paham
 ndak:tidak
 nggak:tidak
 nggu:menunggu
+ngliat:melihat
+ngeliat:melihat
 ngga:tidak
 nga:tidak
 ngk:tidak
@@ -337,7 +350,9 @@ pgg:pegang
 php:pemberi harapan palsu
 pk:pakai
 paking:packing
+keep:tetap
 plg:pulang
+pesen:pesan
 pls:tolong
 pnh:pernah
 pntg:penting
@@ -364,10 +379,11 @@ romo:promo
 rocker:voucher
 respons:respon
 response:respon
-recomended:rekomendasi
-recommended:rekomendasi
-rekomended:rekomendasi
-recommend:rekomendasi
+recomen:direkomendasikan
+recomended:direkomendasikan
+recommended:direkomendasikan
+rekomended:direkomendasikan
+recommend:direkomendasikan
 sabeb:bebas
 schedule:jadwal
 sdh:sudah
@@ -388,6 +404,7 @@ smg:semoga
 smga:semoga
 smoga:semoga
 smw:semua
+smp:sampai
 smwnya:semuanya
 stage:panggung
 stj:setuju
@@ -399,12 +416,14 @@ sy:saya
 sya:saya
 syg:sayang
 sel:sale
+sampek:sampai
 spek:spesifikasi
 td:tadi
 tdk:tidak
 tpat:tepat
 tpt:tepat
 tengsin:malu
+tebel:tebal
 thn:tahun
 tik:cantik
 tkt:takut
@@ -426,11 +445,12 @@ timbang:dibanding
 tg:tempered glass
 tks:thanks
 tq:terima kasih
-u:you
+u:kamu
 utk:untuk
 unyu:menggemaskan
 uda:sudah
 udh:sudah
+wa:whatsapp
 walo:walau
 walao:walau
 with:dengan
@@ -443,26 +463,25 @@ y:ya
 yak:ya
 yg:yang
 yng:yang
-ninjavanid:ninjavan
+ninjavanid:ninja van
 jeng:jangan
 klesuruah:keseluruhan
 ransel:dibatalkan
-pasrah:puas
+cancel:dibatalkan
+cansel:dibatalkan
 smpai:sampai
+for:untuk
 handsfre:handsfree
-teh:the
 hihihi:tertawa
 hehehe:tertawa
 hahaha:tertawa
 wkwkwk:tertawa
 ckckck:heran
 id:indonesia
-up: 
-job: 
 kayak:seperti
+birthday:ulang tahun
 brithday:ulang tahun
-thank:terima
-you:kasih
+thank:terima kasih
 ati:hati
 adin:adakan
 aga:agak
@@ -476,10 +495,15 @@ by:beli
 best:terbaik
 delivery:pengiriman
 vocher:voucher
+vocer:voucher
+atm:anjungan tunai mandiri
+money:uang
+adin:adain
 hole:lubang
 bas:bass
 depak:depok
 woto:bernilai
+worth:bernilai
 copot:lepas
 kagak:tidak
 cape:capek
@@ -489,19 +513,26 @@ quality:kualitas
 mesan:memesan
 terimakasih:terima kasih
 notification:pemberitahuan
+nyalain:nyalakan
 packing:pengemasan
 peking:pengemasan
+paking:pengemasan
 unique:unik
 nyampe:sampai
 si:sih
 perfect:sempurna
-over:secara keseluruhan
 size:ukuran
-fred:gratis
+free:gratis
+pict:gambar
+picture:gambar
 real:memang
 moga:semoga
 nyangka:menyangka
+kirain:dikira
+fake:palsu
+kw:palsu
 marketing:pemasaran
+refund:pengembalian dana
 komplain:keluhan
 komplen:keluhan
 les:lex
@@ -511,13 +542,14 @@ digratisun:gratis
 naomi:xiaomi
 trusted:terpercaya
 cip:sip
+sep:sip
 birthday:ulang tahun
 original:asli
-ori:asli
 invite:undang
 meeting:pertemuan
-markotop:sangat
-markusip:sangat
+markotop:sekali
+markusip:sekali
+gandos:sekali
 smartphone:telepon genggam cerdas
 xpress:express
 ekspress:express
@@ -525,7 +557,56 @@ black:hitam
 blue:biru
 very:sangat
 not:tidak
+on:tepat
+time:waktu
 good:bagus
 bad:jelek
 product:produk
 carger:charger
+temper:tempered
+awesome:luar biasa
+amazing:luar biasa
+item:barang
+kilatan:kelihatan
+simple:sederhana
+simpel:sederhana
+poko:pokok
+txs:terima kasih
+order:pemesanan
+performance:performa
+service:pelayanan
+you:kamu
+worthed:bernilai
+like:suka
+top:teratas
+tyas:terima kasih
+rendy:siap
+ready:siap
+original:asli
+orisinal:asli
+orisinil:asli
+job:pekerjaan
+nunggu:menunggu
+nungguin:menunggu
+gadget:gawai
+online:daring
+via:lewat
+invite:faktur
+fans:penggemar
+is:adalah
+teh:yang
+the:yang
+radak:agak
+rada:agak
+now:sekarang
+display:tampilan
+gift:hadiah
+min:admin
+useful:berguna
+powerful:bertenaga
+attitude:sikap
+warp:wrap
+card:kartu
+eror:error
+high:tinggi
+figur:fitur

@@ -1,0 +1,651 @@
+abjad|abjat
+akta|akte
+aktif|aktip
+aktivitas|aktifitas
+amendemen|amandemen
+andal|handal
+analisis|analisa
+antre|antri
+asas|azas
+apak|apek
+apotek|apotik
+aritmetika|aritmatika
+atlet|atlit
+atmosfer|atmosfir
+cabai|cabe
+camilan|cemilan
+cendekia|cendikia
+cenderamata|cinderamata
+detail|detil
+definisi|difinisi
+diagnosis|diagnosa
+embus|hembus
+ekstra|extra
+ekstrem|ekstrim
+esai|esei
+februari|pebruari
+fondasi|pondasi
+formal|formil
+frasa|frase
+frekuensi|frekwensi
+gizi|gisi
+hafal|hapal
+hakikat|hakekat
+hipotesis|hipotesa
+hierarki|hirarki
+ijazah|ijasah
+izin|ijin
+imbau|himbau
+isap|hisap
+istri|isteri
+jadwal|jadual
+jenazah|jenasah
+jenderal|jendral
+justru|justeru
+kafetaria|kafeteria
+kalender|kalendar
+karier|karir
+katapel|ketapel
+kategori|katagori
+kedaluwarsa|kadaluwarsa
+kendaraan|kenderaan
+komplet|komplit
+konferensi|konperensi
+kongres|konggres
+konkret|kongkrit
+kreativitas|kreatifitas
+kualifikasi|kwalifikasi
+kualitatif|kwalitatif
+kuantitatif|kwantitatif
+kualitas|kwalitas
+kuitansi|kwitansi
+lubang|lobang
+makhluk|mahluk
+manajemen|menejemen
+masjid|mesjid
+merek|merk
+meterai|materai
+meterai|meterei
+metode|metoda
+miliar|milyar
+misi|missi
+modern|moderen
+mubazir|mubadir
+mulia|mulya
+mungkir|pungkir
+napas|nafas
+narasumber|nara
+nasihat|nasehat
+objek|obyek
+objektif|obyektif
+paham|faham
+parlemen|parlamen
+paspor|pasport
+peduli|perduli
+pikir|fikir
+praktik|praktek
+provinsi|propinsi
+rabu|rebo
+risiko|resiko
+sah|syah
+sanggama|senggama
+sekadar|sekedar
+sekuler|sekular
+seluler|selular
+semadi|semedi
+sentral|central
+seprai|seprei
+silakan|silahkan
+sirkuler|sirkular
+sistem|sistim
+saksama|seksama
+subjek|subyek
+subjektif|subyektif
+surga|sorga
+survei|survai
+survei|survey
+tampak|nampak
+teladan|tauladan
+teknik|tehnik
+teknologi|tehnologi
+telanjur|terlanjur
+telantar|terlantar
+terampil|trampil
+vila|villa
+wakaf|waqaf
+wujud|ujud
+yudikatif|yudikatip
+ubah|rubah
+zaman|jaman
+alpa|alfa
+baik|bae
+balas|bales
+belum|belom
+capai|capek
+dalam|dalem
+dapat|dapet
+disahkan|disyahkan
+februari|febuari
+hilang|ilang
+ikhlas|iklas
+ingat|inget
+itikad|itikat
+jumat|jumaat
+karena|karna
+kasier|kasir
+karisma|kharisma
+kepada|kapada
+kerap|kerab
+kaidah|kaedah
+khatulistiwa|katulistiwa
+khawatir|kawatir
+konkret|konkrit
+kuadrat|kwadrat
+kuantum|kwantum
+kuis|kuiz
+lazim|lajim
+losin|lusin
+maaf|maap
+macam|macem
+malas|males
+manfaat|manpaat
+nomor|nomer
+materai|matere
+mengesampingkan|mengenyampingkan
+mengubah|merubah
+padat|padet
+pelanggan|langganan
+pensil|pinsil
+pertanggung jawaban|pertanggungjawab
+pihak|fihak
+populer|popular
+rapat|rapet
+sampai|ampe
+selesai|selese
+seperti|kayak
+aksi|action
+anarki|anarkhi
+anggota|anggauta
+biosfer|biosfir
+cepat|cepet
+debit|debet
+devaluasi|defaluasi
+doa|do'a
+diam|diem
+daftar|daptar
+dipersilakan|dipersilahkan
+ekuivalen|ekwivalen
+elite|elit
+familier|familiar
+glucose|glukosa
+grup|group
+genting|genteng
+gubuk|gubug
+hectare|hektar
+heterogen|hetrogen
+hipotek|hipotik
+hierarki|hirarkhi
+hanya|cuma
+habis|abis
+ideologi|idiologi
+ikhlas|ihlas
+interogasi|interograsi
+introspeksi|interospeksi
+interupsi|intrupsi
+institut|institute
+kalau|kalo
+kuantitas|kwantitas
+kuota|kwota
+kredit|kridit
+linear|linier
+manajemen|managemen
+masal|missal
+misal|missal
+masal|massal
+manajer|menejer
+monarki|monarkhi
+moral|moril
+netralisasi|netralisir
+omzet|omset
+pengkreditan|pengreditan
+teknologi|tekhnologi
+universitas|university
+varietas|varitas
+adakalanya|ada kalanya
+apabila|apa bila
+bagaimana|bagai mana
+barangkali|barang kali
+bilamana|bila mana
+beasiswa|bea siswa
+belasungkawa|bela sungkawa
+bumiputra|bumi putra
+daripada|dari pada
+darmabakti|darma bakti
+darmasiswa|darma siswa
+dukacita|duka cita
+hulubalang|hulu balang
+kacamata|kaca mata
+kasatmata|kasat mata
+kepada|ke pada
+keratabasa|kerata basa
+kosakata|kosa kata
+lokakarya|loka karya
+manakala|mana kala
+manasuka|mana suka
+mangkubumi|mangku bumi
+marabahaya|mara bahaya
+matahari|mata hari
+olahraga|olah raga
+padahal|pada hal
+paramasastra|parama sastra
+puspawarna|puspa warna
+radioaktif|radio aktif
+sastramarga|sastra marga
+saputangan|sapu tangan
+saripati|sari pati
+sebagaimana|sebagai mana
+sediakala|sedia kala
+segi tiga|segitiga
+silaturahmi|silatu rahmi
+sukacita|suka cita
+sukarela|suka rela
+sukaria|suka ria
+syahbandar|syah bandar
+titimangsa|titi mangsa
+wali kota|walikota
+ekabahasa|eka bahasa
+dwibahasa|dwi bahasa
+tridarma|tri darma
+tritunggal|tri tunggal
+caturwarga|catur warga
+caturwulan|catur wulan
+pancaindra|panca indra
+pancasila|panca sila
+saptakrida|sapta krida
+saptapesona|sapta pesona
+dasatitah|dasa titah
+dasawarsa|dasa warsa
+kilogram|kilo gram
+megawatt|mega watt
+terabita|tera bita
+gigaohm|giga ohm
+sentimeter|senti meter
+mikroorganisme|mikro organisme
+kilometer|kilo meter
+amoral|a moral
+asusila|a susila
+antarnegara|antar negara
+antarwarga|antar warga
+ekstrakurikuler|ekstra kurikuler
+kontrarevolusi|kontra revolusi
+mahaagung|maha agung
+maha pengasih|mahapengasih1
+nonblok|non blok
+non-indonesia|non indonesia2
+perilaku|peri laku
+peri keadilan|perikeadilan1
+pascapanen|pasca panen
+semiprofesional|semi profesional
+subbagian|sub bagian
+supersibuk|super sibuk
+tunakarya|tuna karya
+ultramodern|ultra modern
+malapraktik|malpraktik
+malafungsi|malfungsi
+malaserap|malserap
+malaadaptasi|maladaptasi
+malasuai|malsuai
+maladistribusi|maldistribusi
+malagizi|malgizi
+malasikap|malsikap
+andaipun|andai pun
+ataupun|atau pun
+bagaimanapun|bagaimana pun
+biarpun|biar pun
+kalaupun|kalau pun
+kendatipun|kendati pun
+meskipun|meski pun
+sungguhpun|sungguh pun
+walaupun|walau pun
+hindia belanda|hindia-belanda
+asal usul|asal-usul
+di antara|diantara
+di akhir|diakhir
+di atas|diatas
+di awal|diawal
+di bagian|dibagian
+di bawah|dibawah
+di belakang|dibelakang
+di dalam|didalam
+di dekat|didekat
+di depan|didepan
+di hadapan|dihadapan
+di jalan|dijalan
+di kanan|dikanan
+di kiri|dikiri
+di luar|diluar
+di mana|dimana
+di muka|dimuka
+di pusat|dipusat
+di rumah|dirumah
+di samping|disamping
+di saat|disaat
+di sana|disana
+di sebelah|disebelah
+di seberang|diseberang
+di sekeliling|disekeliling
+di sekitar|disekitar
+di seluruh|diseluruh
+di sini|disini
+di sisi|disisi
+di situ|disitu
+di tanah|ditanah
+di tempat|ditempat
+di tengah|ditengah
+di tengah-tengah|ditengah-tengah
+di tepi|ditepi
+di tiap|ditiap
+di tiap-tiap|ditiap-tiap
+ke atas|keatas
+ke bawah|kebawah
+ke belakang|kebelakang
+ke dalam|kedalam
+ke depan|kedepan
+ke hadapan|kehadapan
+ke kanan|kekanan
+ke kiri|kekiri
+ke mana|kemana
+ke sana|kesana
+ke samping|kesamping
+ke tempat|ketempat
+aktual|aktuil
+trotoar|trotoir
+komersial|komersiil
+komersial|komersil
+tradisional|tradisionil
+orisinal|orisinil
+orisinal|orijinil
+orisinal|orijinal
+real|riil
+afdal|afdol
+cedera|cidera
+dekret|dekrit2
+desain|disain
+deskripsi|diskripsi
+diskotek|diskotik
+eksem|eksim
+eksem|exim
+faedah|faidah
+konkret|kongkret
+museum|musium
+penalti|pinalti
+peranti|piranti
+personel|personil
+teoretis|teoritis
+video|vidio
+cengkih|cengkeh
+disertasi|desertasi
+intelijen|intelejen
+kempis|kempes
+leding|ledeng
+ritsleting|retsleting
+senin|senen
+ameba|amuba
+penggawa|punggawa
+serban|surban
+serban|sorban
+agrobisnis|agribisnis
+kantong|kantung
+khotbah|khutbah
+mandor|mandur
+roboh|rubuh
+pastor|pastur
+sopir|supir
+babun|babon
+guncang|goncang
+gua|goa
+kaus|kaos
+kukuh|kokoh
+kumulatif|komulatif
+kolumnis|kolomnis
+kurma|korma
+limusin|limo
+limusin|limosin
+mangkuk|mangkok
+saus|saos
+sup|sop
+tegur|tegor
+telur|telor
+ubrak-abrik|obrak-abrik
+konsekuensi|konsekwensi
+kuadran|kwadran
+kualitas|kwalitet
+kuartal|kwartal
+kuintal|kwintal
+khawatir|kwatir
+khawatir|kuatir
+aktif|aktiv
+efektif|efektip
+epektif|epektip
+fisik|pisik
+foto|photo
+fotokopi|photokopi
+insaf|insap
+insaf|insyaf
+kreatif|kreatip
+kreatif|kreativ
+nafsu|napsu
+negatif|negatip
+negatif|negativ
+pasif|pasip
+pasif|pasiv
+positif|positip
+positif|positiv
+produktif|produktip
+produktif|produktiv
+saraf|sarap
+sertifikat|sertipikat
+tarif|tarip
+transitif|transitip
+transitif|transitiv
+telepon|telefon
+telepon|telfon
+telepon|telpon
+telepon|tilpon
+permak|vermak
+pulpen|vulpen
+aktivis|aktifis
+konveksi|konfeksi
+motivasi|motifasi
+november|nopember
+baptis|babtis
+jerembap|jerembab
+lembap|lembab
+sembap|sembab
+sabtu|saptu
+tekad|tekat
+bejat|bejad
+nekat|nekad
+otopet|otoped
+skuat|skuad
+genius|jenius
+margin|marjin
+marginal|marjinal
+proyek|projek
+plaza|plasa
+batin|bathin
+katolik|katholik
+ortografi|orthografi
+patogen|pathogen
+teologi|theologi
+rezeki|rejeki
+rezeki|rizki
+rezeki|riski
+rezeki|rizqi
+rezim|rejim
+zamrud|jamrud
+anugerah|anugrah
+cenderawasih|cendrawasih
+indera|indra
+keripik|kripik
+kerupuk|krupuk
+kesatria|ksatria
+kesatria|satria
+menteri|mentri
+negeri|negri
+perancis|prancis
+seberang|sebrang
+menyeberang|menyebrang
+sumatera|sumatra
+prajurit|perajurit
+putra|putera
+putri|puteri
+samudra|samudera
+sastra|sastera
+sutra|sutera
+trompet|terompet
+ikhtisar|iktisar
+khotbah|kotbah
+khusyuk|kusyuk
+makhluk|makluk
+makhluk|mahkluk
+nakhoda|nahkoda
+nakhoda|nakoda
+takhta|tahta
+takhayul|takhyul
+takhayul|tahyul
+takhayul|tahayul
+ahli|akhli
+rahmat|rakhmat
+teknik|tekhnik
+ihwal|ikhwal
+seks|sex
+taksi|taxi
+ekstasi|extasi
+ekspor|expor
+saraf|syaraf
+surga|syurga
+masyhur|mashur
+masyhur|masyur
+masyhur|mahsyur
+masyhur|mashyur
+muazin|muadzin
+azan|adzan
+ustaz|ustadz
+ustaz|ustad
+ustazah|ustadzah
+zikir|dzikir
+zuhur|dzuhur
+zuhur|dhuhur
+zuhur|zhuhur
+sintesis|sintesa
+efektivitas|efektifitas
+komunitas|komuniti
+produktivitas|produktifitas
+realitas|realiti
+realitas|realita
+selebritas|selebriti
+sportivitas|sportifitas
+universitas|universiti
+utilitas|utiliti
+validitas|validiti
+dilokalisasi|dilokalisir
+didramatisasi|didramatisir
+dipolitisasi|dipolitisir
+dinetralisasi|dinetralisir
+dikonfrontasi|dikonfrontir
+mendominasi|mendominir
+koordinasi|koordinir
+proklamasi|proklamir
+terorganisasi|terorganisir
+terealisasi|terealisir
+mencintai|menyintai
+mencolok|menyolok
+sontek|contek
+menyontek|mencontek
+aksesori|aksesoris
+antar|hantar
+anutan|panutan
+asiri|atsiri
+bakti|bhakti
+cina|china
+darma|dharma
+diktator|diktaktor
+ekspor|eksport
+hadis|hadits
+hadis|hadist
+harfiah|harafiah
+impor|import
+interpretasi|interprestasi
+kanker|kangker
+lanskap|lansekap
+magrib|maghrib
+ramadan|ramadhan
+rapi|rapih
+sanskerta|sansekerta
+sri lanka|sri langka
+salat|shalat
+salat|sholat
+salat|solat
+standar|standard
+standardisasi|standarisasi
+utang|hutang
+zina|zinah
+jumat|jum'at
+laknat|la'nat
+maaf|ma'af
+mukjizat|mu'jizat
+mukjizat|mujizat
+mukjizat|mujijat
+nikmat|ni'mat
+rakaat|raka'at
+taat|ta'at
+amfibi|amphibi
+anjlok|anjlog
+avokad|alpukat
+avokad|alpokat
+pulpen|bolpen
+cabai|cabay
+cerek|ceret
+diferensial|differensial
+durian|duren
+faksimile|faksimili
+faksimile|faksimil
+gerha|graha
+goblok|goblog
+gombroh|gombrong
+gorden|horden
+gorden|korden
+imajinasi|imaginasi
+jeriken|jerigen
+jeriken|jirigen
+karut-marut|carut-marut
+mazhab|mahzab
+memesona|mempesona
+nanas|nenas
+negosiasi|negoisasi
+otomotif|automotif
+paralel|pararel
+pasca|paska
+persen|prosen
+petai|petay
+profesor|proffesor
+ramai|rame
+rapor|rapot
+relaks|rileks
+relaksasi|rileksasi
+remunerasi|renumerasi
+sekretaris|seketaris
+sekretaris|sekertaris
+sensoris|sensorik
+sentosa|sentausa
+stroberi|strawberi
+stroberi|strawbery
+stroberi|strawberry
+takwa|taqwa
+taoco|tauco
+taoge|tauge
+taoge|toge
+tobat|taubat
+triliun|trilyun
+visi|vissi
