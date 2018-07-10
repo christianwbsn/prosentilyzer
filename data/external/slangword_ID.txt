@@ -6,16 +6,33 @@ ababil:anak ingusan
 abal2:palsu
 abal:palsu
 ad:ada
+adres:alamat
+address:alamat
+ade:adik
+adek:adik
+adain:adakan
 af:sekali
 aj:saja
 aja:saja
+ajah:saja
 apa2:apa apa
+anj:anjing
+apah:apa
 akooh:aku
 alay:norak
+azada:lazada
+alhamdulillah:alhamdulilah
+alhmadlah:alhamdulilah
+alhmdhl:alhamdulilah
+alhmdl:alhamdulilah
+alhmdlah:alhamdulilah
+alhmdlh:alhamdulilah
+alhmdulah:alhamdulilah
 albm:album
 alakadar:seadanya
 ampe:sampai
 anjir:waw
+andri:antre
 anyway:ngomong-ngomong
 apik:bagus
 aq:aku
@@ -159,6 +176,7 @@ god:bagus
 gmn:bagaimana
 gmpng:gampang
 gokil:gila
+gwe:aku
 hand:tangan
 gapapa:tidak apa apa
 gpp:tidak apa apa
@@ -171,6 +189,7 @@ gw:aku
 hbd:happy birthday
 hp:telepon genggam
 hape:telepon genggam
+handphone:telepon genggam
 haeduh:aduh
 hacep:pesta pora
 hater:pembenci
@@ -596,6 +615,7 @@ fans:penggemar
 is:adalah
 teh:yang
 the:yang
+ulangtahun:ulang tahun
 radak:agak
 rada:agak
 now:sekarang
@@ -610,3 +630,43 @@ card:kartu
 eror:error
 high:tinggi
 figur:fitur
+accept:terima
+account:akun
+acceptable:dapat diterima
+aceptable:dapat diterima
+accesories:aksesoris
+acesories:aksesoris
+aksesori:aksesoris
+acomplished:tercapai
+accomplished:tercapai
+afordable:terjangkau
+affordable:terjangkau
+verified:verifikasi
+verikasi:verifikasi
+voucer:voucher
+walapun:walaupun
+watching:menonton
+waterprof:tahan air
+waterproof:tahan air
+wedding:pernikahan
+world:dunia
+wrap:bungkus
+plis:mohon
+please:mohon
+official:resmi
+trprcaya:terpercaya
+trobosan:terbosan
+trlmbt:terlambat
+transfers:transfer
+thebest:terbaik
+terbaique:terbaik
+tempereglas:tempered glass
+tempergras:tempered glass
+temprglas:tempered glass
+tangungjawab:tanggung jawab
+trimaksi:terima kasih
+trimkasi:terima kasih
+sofcase:soft case
+softcas:soft case
+softcast:soft case
+slnjtnya:selanjutnya
