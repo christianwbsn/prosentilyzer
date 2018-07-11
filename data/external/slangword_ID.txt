@@ -33,6 +33,7 @@ alakadar:seadanya
 ampe:sampai
 anjir:waw
 andri:antre
+anterin:antarkan
 anyway:ngomong-ngomong
 apik:bagus
 aq:aku
@@ -415,6 +416,7 @@ sh:masih
 sjjurny:sejujurnya
 skali:sekali
 skrg:sekarang
+seneng:senang
 slh:salah
 sll:selalu
 ssuai:sesuai
@@ -597,6 +599,7 @@ service:pelayanan
 you:kamu
 worthed:bernilai
 like:suka
+choice:pilihan
 top:teratas
 tyas:terima kasih
 rendy:siap
@@ -607,6 +610,7 @@ orisinil:asli
 job:pekerjaan
 nunggu:menunggu
 nungguin:menunggu
+couple:pasangan
 gadget:gawai
 online:daring
 via:lewat
@@ -624,6 +628,8 @@ gift:hadiah
 min:admin
 useful:berguna
 powerful:bertenaga
+power:tenaga
+powerbank: power bank
 attitude:sikap
 warp:wrap
 card:kartu

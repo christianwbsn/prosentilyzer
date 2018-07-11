@@ -36,6 +36,10 @@ anugrah
 apresiasi
 arahan
 atensi
+awet
+teratas
+oke
+kualitas
 ayo
 bagus
 bahagia
@@ -510,6 +514,7 @@ itikad
 itikaf
 izin
 jago
+jaya
 jagoan
 jangan dulu
 jawaban

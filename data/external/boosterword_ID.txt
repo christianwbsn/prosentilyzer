@@ -2,6 +2,7 @@ agak
 amat
 banget
 bangat
+bahkan
 beberapa
 benar-benar
 betul-betul
@@ -10,11 +11,14 @@ kadang-kadang
 kira-kira
 lebih
 mungkin
+memang
 pasti
 sangat
+sering
 seakan-akan
 sedikit
 sekali
+selalu
 sempurna
 sungguh
 terkadang

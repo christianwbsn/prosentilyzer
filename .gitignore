@@ -1,4 +1,5 @@
 .vscode
 .ipynb_checkpoints
 /data/external/wiki.id.vec
+/data/external/id
 /notebooks/ipynb_checkpoints
