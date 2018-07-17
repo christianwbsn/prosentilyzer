@@ -8,7 +8,9 @@ chardet==3.0.4
 configparser==3.5.0
 cryptography==2.1.4
 cycler==0.10.0
+Cython==0.25
 decorator==4.3.0
+deepnl==1.3.18
 entrypoints==0.2.3
 enum34==1.1.6
 functools32==3.2.3.post2
