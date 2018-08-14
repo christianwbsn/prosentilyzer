@@ -48,7 +48,6 @@ pexpect==4.6.0
 pickleshare==0.7.4
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
-pycrypto==2.6.1
 Pygments==2.2.0
 pygobject==3.26.1
 pylint==1.9.2
